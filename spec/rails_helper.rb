@@ -3,7 +3,7 @@ require 'simplecov'
 SimpleCov.start
 
 # Added this to fix the error: uninitialized constant Shoulda
-require "shoulda/matchers"
+require 'shoulda/matchers'
 
 require 'spec_helper'
 ENV['RAILS_ENV'] ||= 'test'
