@@ -36,7 +36,7 @@ This project uses **rswag-rails** for OpenAPI 3.0 documentation.
 3. Run `bundle exec rake rswag:generate`
 
 ## Features
-- Ruby 3.3.7-alpine
+- Ruby 3.4.2-alpine
 - Rails 7.2.0
 - Postgres 17-alpine
 - JBuilder templates
