@@ -37,7 +37,7 @@ This project uses **rswag-rails** for OpenAPI 3.0 documentation.
 
 ## Features
 - Ruby 3.4.2-alpine
-- Rails 7.2.0
+- Rails 8.0.2
 - Postgres 17-alpine
 - JBuilder templates
 - OpenAPI Specifications
